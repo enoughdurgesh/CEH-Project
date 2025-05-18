@@ -108,6 +108,6 @@ This repository contains seven beginner-level projects focused on ethical hackin
 
 ## About Me
 
-Hi, I'm Durgesh Sahu, attended at Rungta College of Engineering and Technology pursuing my B.Tech CSE degree and currently I am in 4th Semester. 
+Hi, I'm Durgesh Kumar Sahu, attended at Rungta College of Engineering and Technology pursuing my B.Tech CSE degree and currently I am in 4th Semester. 
 
 Thank you for visiting my GitHub page!
